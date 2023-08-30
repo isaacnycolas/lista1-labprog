@@ -1,0 +1,3 @@
+Na primeira situação, como há * e /, poderia começar com qualquer um e depois somaria o resultado deste com o 7.
+Na segunda, poderia começar com o resto de 2 % 2, em seguida a multiplicação entre 2 * 2. Logo após a divisão de -2 para 2 e em seguida somar e subtrair os resultados (ou cortar os inversos, como 1 e -1);
+No terceiro caso, a divisão de 3/3 seria feita primeiro. depois o resultado multiplicaria com o 9. após isso, este seria somado ao três e essa conta multiplicaria o 9 e o 3, não importando a ordem a operação.
